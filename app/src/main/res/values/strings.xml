@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalBoundService</string>
+    <string name="button_show_time">Show Time</string>
+</resources>
